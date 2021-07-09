@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DevOps (Kubernetes), AWS Stack and String manipulation algorithms**
 
-- 📝 I regularly write articles on [alejogtz.github.io/Portfolio](https://alejogtz.github.io/Portfolio)
+- 📝 I regularly write articles on [alejogtz.github.io/blog](https://alejogtz.github.io/blog)
 
 - 💬 Ask me about **.Net Core, .Net 4.5, Java, Angular or Systems Architecture Design**
 
