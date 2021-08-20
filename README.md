@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejo Gutiérrez</h1>
 <h3 align="center">A passionate backend developer from México</h3>
 
-- 🌱 I’m currently learning **DevOps (Kubernetes), AWS Stack and String manipulation algorithms**
+- 🌱 I’m currently learning **ASP.Net, AWS Stack and Pipelines Automation**
 
 - 📝 I regularly write articles on [alejogtz.github.io/blog](https://alejogtz.github.io/blog)
 
