@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/alekhius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alekhius" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alejo-gutierrez-reyes-7a091bba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejo-gutierrez-reyes-7a091bba" height="30" width="40" /></a>
+<a href="https://twitter.com/gzalejo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gzalejo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alejogz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejogz" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12004750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12004750" height="30" width="40" /></a>
 <a href="https://instagram.com/alejogtx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alejogtx" height="30" width="40" /></a>
 </p>
