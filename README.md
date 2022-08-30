@@ -4,7 +4,7 @@
 - 📝 I usually write articles on [alejogtz.github.io/blog](https://alejogtz.github.io/blog)
 - 💬 Ask me about **.Net Core, .Net 4.5, Java, Angular or Systems Architecture Design**
 - ⚡ Fun fact _**Pandas are puppy software running on bear hardware.**_
-- 🎉I'm interested in **chess** ([@alekius](https://lichess.org/@/Alekius) at lichess.org)
+- 🎉I'm interested in **chess** ([@alekius](https://bit.ly/3AyzAN7) at lichess.org)
 
 
 
