@@ -1,8 +1,8 @@
 ![](https://imgur.com/NqBxwRO.jpg)
 
-- 🌱 I’m currently learning **Ruby on Rails, CI/CD and algorithms**
+- 🌱 I’m currently learning **Github Actions/Pipelines and algorithms**
 - 📝 I usually write articles on [alejogtz.github.io/blog](https://alejogtz.github.io/blog)
-- 💬 Ask me about **.Net Core, .Net 4.5, Java, Angular or Systems Architecture Design**
+- 💬 Ask me about **Ruby on Rails, Angular or Systems Architecture Design**
 - ⚡ Fun fact _**Pandas are puppy software running on bear hardware.**_
 - 🎉I'm interested in **chess** ([@alekius](https://bit.ly/3AyzAN7) at lichess.org)
 
